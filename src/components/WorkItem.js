@@ -1,8 +1,8 @@
 import React from 'react';
 
-class About extends React.Component{
+class WorkItem extends React.Component{
 
   render(){
-    
+
   }
 }

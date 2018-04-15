@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Mark Rice",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "mark.rice.jr@gmail.com",
+    "phone": "",
+    "website": "http://markrice.com",
+    "summary": "Python enthusiast working on fun problems. Let's chat Python!",
+    "location": {
+      "address": "",
+      "postalCode": "CA 94402",
+      "city": "San Mateo",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "mrice88",
+      "url": "http://twitter.com/mrice88"
+    },{
+      "network": "GitHub",
+      "username": "mrice88",
+      "url":
+    },{
+      "network": "LinkedIn",
+      "username": "mrice88"
+      }]
+  },
+  "work": [{
+    "company": "Rochester Regional Health",
+    "position": "Research Programmer/ Software Engineer",
+    "website": "https://www.rochesterregional.org/research/clinical-systems-biology/",
+    "startDate": "2016-12-01",
+    "endDate": "",
+    "summary": "Responsible for starting a Natural Language Processing project to
+    cast Sentiment Analysis on published works to validate relationships between
+    different scientific entities. Designing fitness algorithms to further weight
+    different papers based on journal/subject/relatedness. Mined Drug Interaction
+    database, for augmenting directed biological networks with drugs. Creating
+    User dashboard to interact with DB, and validate underlying biology.",
+    "highlights": []
+  },
+  {
+    "company": "Nova Southeastern University",
+    "position": "Software Developer",
+    "website": "http://www.nova.edu/nim/clinical-systems-biology/",
+    "startDate": "2014-03-01",
+    "endDate": "2016-12-01",
+    "summary": "Lead development of High Performance Computing core for Clinical
+    Systems Biology Lab at NSU. Also built toolboxes and libraries for experiments
+    on ternary logic based directed graphs.",
+    "highlights": []
+  },{
+    "company": "South Florida VA Foundation",
+    "position": "Software Developer",
+    "website": "http://www.nova.edu/nim/clinical-systems-biology/",
+    "startDate": "2014-03-01",
+    "endDate": "2013-03-01",
+    "summary": "Brought on to translate existing code written by researchers to
+    a distributed high performance computing platform with optimized performance
+    and algorithms.",
+    "highlights": []
+  }],
+  "volunteer": [],
+  "education": [{
+    "institution": "Florida International University",
+    "area": "Software Development",
+    "studyType": "Bachelors of Science",
+    "startDate": "",
+    "endDate": "2015-08-05",
+    "gpa": "3.0",
+    "courses": []
+  }],
+  "awards": [],
+  "publications": [],
+  "skills": [{
+    "name": "Software Engineer",
+    "level": "",
+    "keywords": [
+      "Python",
+      "matplotlib",
+      "pandas",
+      "Jupyter Notebook",
+      "HTML",
+      "Javascript",
+      "SQL"
+    ]
+  }],
+  "languages": [{
+    "name": "English",
+    "level": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Home Chef",
+    "keywords": [
+      "Cooking",
+      "Eating"
+    ]
+  }],
+  "references": []
+}
